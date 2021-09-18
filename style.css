@@ -109,13 +109,25 @@ html,body{
     width: 80%;
     height: 81%;
     }
+
+    #top{
+        padding: 10px;
+    }
     
     #bottom{
         padding: 10px;
-        padding-left: 25px;
+        padding-left: 25px; 
+    }
+    .box{
+        height:30px;
+        padding: 15px;
     }
     .circle{
-        margin: 0 10px 8px 0;
+        margin: 0 10px 12px 0;
+    }
+
+    #bottom h1{
+        font-size: 24px;
     }
 
 }
